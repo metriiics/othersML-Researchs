@@ -1,3 +1,3 @@
 # othersML-Researchs
 
-[Наборки](notebooks/)
+[Наборки](spark-telecom/)
