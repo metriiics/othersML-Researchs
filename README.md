@@ -3,6 +3,9 @@
 This repository contains machine learning research: experimental code, datasets, and analysis materials.
 Этот репозиторий содержит исследования по машинному обучению: код экспериментов, датасеты и материалы анализа.
 
+[OvR](OvR/) - a self-written method for multiclass classification using a self-written perceptron(самописный метод для многоклассовой классификации с использованием самописного персептрон)
+
+[Perceptron](Perceptron/) - self-written perceptron for classification(самописный персептрон для классификации)
 
 [Credit-Scoring](Credit-Scoring/) - a simple credit score based on personal customer data(простая кредитная оценка по персональным данным клиентов)
 	
