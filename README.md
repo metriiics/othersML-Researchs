@@ -3,6 +3,8 @@
 This repository contains machine learning research: experimental code, datasets, and analysis materials.
 Этот репозиторий содержит исследования по машинному обучению: код экспериментов, датасеты и материалы анализа.
 
+[Wine](Wine/) - underfitting/overfitting
+
 [OvR](OvR/) - a self-written method for multiclass classification using a self-written perceptron(самописный метод для многоклассовой классификации с использованием самописного персептрон)
 
 [Perceptron](perceptron/) - self-written perceptron for classification(самописный персептрон для классификации)
